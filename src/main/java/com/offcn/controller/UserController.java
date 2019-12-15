@@ -106,4 +106,11 @@ public class UserController {
     public void fenzhi4(){
         System.out.println("测试合并4");
     }
+
+    /**
+     * 分支
+     */
+    public void fenzhi5(){
+        System.out.println("测试合并5");
+    }
 }
