@@ -77,6 +77,12 @@ public class UserController {
      * 分支
      */
     public void fenzhi(){
-
+        System.out.println("测试合并");
+    }
+    /**
+     * 分支
+     */
+    public void fenzhi1(){
+        System.out.println("测试合并1");
     }
 }
